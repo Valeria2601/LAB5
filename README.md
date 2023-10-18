@@ -12,3 +12,6 @@ __Постановка задачи:__
 ![тест](https://github.com/Valeria2601/LAB5/blob/main/%D0%A2%D0%B5%D1%81%D1%82%201.png)
 
 ![тест](https://github.com/Valeria2601/LAB5/blob/main/%D0%A2%D0%B5%D1%81%D1%82%202.png)
+
+
+![тест](https://github.com/Valeria2601/LAB5/blob/main/%D0%A2%D0%B5%D1%81%D1%82%203.png)
